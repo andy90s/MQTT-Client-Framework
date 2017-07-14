@@ -8,6 +8,8 @@
 
 @import Foundation;
 
+#define LUMBERJACK 1
+
 #ifdef LUMBERJACK
 
 #define LOG_LEVEL_DEF ddLogLevel
